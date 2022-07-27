@@ -2,8 +2,8 @@
 <h3 align="center">Hey!👋 I'm Natasha, a software development enthusiast <img src="https://64.media.tumblr.com/e82bfc7be4650e12bc34de2caa95da78/d753e0d330ace5ca-ed/s75x75_c1/f21e0087699bb1e4e24aaa78c0deb31d90fc1852.gifv"><h3>
   <div align="center">
   <a href="https://github.com/nathyq">
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=nathyq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathyq&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nathyq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathyq&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
 
 <h3>Technologies and tools</h3>
